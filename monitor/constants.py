@@ -1,0 +1,5 @@
+STATUS_COMPLETE = "Completed"
+STATUS_RUNNING = "Running"
+STATUS_NONE = "None"
+STATUS_INACTIVE = "inactive"
+STATUS_ACTIVE = "active"
